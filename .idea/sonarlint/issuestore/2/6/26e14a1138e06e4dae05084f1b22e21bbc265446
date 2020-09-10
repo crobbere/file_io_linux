@@ -1,0 +1,14 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹°øÔ8­„Ş¼Æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÂåÑòşÿÿÿÿ8Ã‘×¼Æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±ß°«üÿÿÿÿ8ÜûÙ¼Æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹£’ƒıÿÿÿÿ8´“Â¼Æ.
+K
+java:S1481$")Remove this unused "file" local variable.(ÓûÉçùÿÿÿÿ8­–â¼Æ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ÔÎĞ‡øÿÿÿÿ8º‹à¼Æ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–âÿ8ßØ¼Æ.
+L
+java:S1481 "/Remove this unused "realPathp3" local variable.(ŸÆ»Š8¡ï™½Æ.
+L
+java:S1481!"/Remove this unused "realPathp4" local variable.(ğœåœ8ìÃš½Æ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü¨®Û
